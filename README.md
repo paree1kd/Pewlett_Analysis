@@ -26,8 +26,8 @@ A SQL exercise on retiring employees in a company
 * Unique titles table shows the most recent title for employees in that retirement age span.
 * Retiring_titles show a majoairty of the individuals at retirement age hold senior titles. 
 * Mentorship eligibilituy shows that most employees have senior titles. 
-* A calculation of the retiring title shows 57,668/90,398 of employees which equals 64% hold senior titles.<img width="169" alt="Screen Shot 2022-05-11 at 2 50 07 AM" 
+* A calculation of the retiring title shows 57,668/90,398 of employees which equals 64% hold senior titles.
 
-* src="https://user-images.githubusercontent.com/102098068/167797181-3d8942d2-2b03-46b2-bc14-8eed4058c536.png">
+<img width="169" alt="Screen Shot 2022-05-11 at 2 50 07 AM"src="https://user-images.githubusercontent.com/102098068/167797181-3d8942d2-2b03-46b2-bc14-8eed4058c536.png">
 
 * Conclusion is that close to sixty-four percent of the employees are looking at retirement to fill over five to ten years. Although this will be difficult to fill, an analysis of how the company nurtured this many employees to such a status to continue leading their employees. 
